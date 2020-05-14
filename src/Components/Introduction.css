@@ -1,0 +1,20 @@
+.name {
+    font-size: 75px;
+    text-align: center;
+}
+
+.dark-blue {
+    color: rgb(39, 39, 82);
+}
+
+.count{
+    font-size: 10px;
+    text-align: center;
+}
+
+.bio {
+    text-align: center;
+    font-size: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+}

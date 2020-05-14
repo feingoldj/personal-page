@@ -1,0 +1,23 @@
+.parent {
+    display: flex;
+    height: 1000px; 
+    flex-direction: column;
+    /* background-color: darkgreen; */
+    
+  }
+
+.child {
+    /* width: 100px;  /*Or whatever */ 
+    /* height: 100px; /* Or whatever */
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: auto;  Magic! */
+}
+
+.background {
+    background: url(matterhorn.jpg);
+    /* background-blend-mode: lighten; */
+    /* opacity: 0.75; */
+    background-size: cover;
+}

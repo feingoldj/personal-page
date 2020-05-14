@@ -1,0 +1,28 @@
+.outer-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.button {
+    /* border-color: black; */
+    border-radius: 7px;
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+
+.cv {
+    background-color: transparent;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.a {
+    color: green;
+    text-decoration: none;
+}
+
+.linkedin {
+    background: url(../linkedin.jpg);
+    background-size: cover;
+}
